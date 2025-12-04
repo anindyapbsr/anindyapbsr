@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning: Fundamental concepts of web development and applying them to my campus assignments.<br>👯 I'm looking to collaborate on: Simple web projects with other beginners.<br>⚡ Fun fact: I'm just beginning my journey, but I'm already excited about creating my first app!
+🌱 I'm currently learning: Fundamental concepts of web development and applying them to my campus assignments.<br>👯 I'm looking to collaborate on: Simple web projects with other beginners.<br>⚡ Fun fact: I'm just beginning my journey, but I'm already excited about creating my first app!!
 
 
 ## 🌐 Socials:
